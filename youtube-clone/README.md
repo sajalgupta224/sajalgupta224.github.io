@@ -7,4 +7,4 @@ YouTube clone with HTML and CSS
 * Also applied some BEM in the styling to apply my learning knowledge of that too.
 
 ### Live site
-* [YouTube Clone](https://sajalgupta224.github.io/sajalgupta224/)
+* [YouTube Clone](https://sajalgupta224.github.io/youtube-clone/)
